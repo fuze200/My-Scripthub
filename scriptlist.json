@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blox Fruits Autofarm",
+    "description": "Safe farm for Blox Fruits",
+    "url": "https://raw.githubusercontent.com/fuze200/MyScriptHub/main/bloxfruits_autofarm.lua"
+  },
+  {
+    "name": "Arsenal Aimbot",
+    "description": "Simple aim assist for Arsenal",
+    "url": "https://raw.githubusercontent.com/fuze200/MyScriptHub/main/arsenal_aimbot.lua"
+  },
+  {
+    "name": "Pet Simulator X Auto Coin",
+    "description": "Auto coin collection in PSX",
+    "url": "https://raw.githubusercontent.com/fuze200/MyScriptHub/main/pet_sim_x_autocoin.lua"
+  }
+]
